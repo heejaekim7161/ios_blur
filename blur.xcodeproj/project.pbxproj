@@ -13,6 +13,13 @@
 		1B362D6D227F19C4008D70F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B362D6C227F19C4008D70F2 /* Assets.xcassets */; };
 		1B362D70227F19C4008D70F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B362D6E227F19C4008D70F2 /* LaunchScreen.storyboard */; };
 		1B362D78227F19F8008D70F2 /* bg.png in Resources */ = {isa = PBXBuildFile; fileRef = 1B362D77227F19F8008D70F2 /* bg.png */; };
+		1B98A0D522BA7ED10086DECC /* photo-1511836536898-6d6f1b8f6948.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1B98A0CF22BA7ED10086DECC /* photo-1511836536898-6d6f1b8f6948.jpeg */; };
+		1B98A0D622BA7ED10086DECC /* sunlight_diet.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1B98A0D022BA7ED10086DECC /* sunlight_diet.jpg */; };
+		1B98A0D722BA7ED10086DECC /* images-3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1B98A0D122BA7ED10086DECC /* images-3.jpeg */; };
+		1B98A0D822BA7ED10086DECC /* images.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1B98A0D222BA7ED10086DECC /* images.jpeg */; };
+		1B98A0D922BA7ED10086DECC /* images-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1B98A0D322BA7ED10086DECC /* images-2.jpeg */; };
+		1B98A0DA22BA7ED10086DECC /* nature-wallpapers-27745-1700938.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1B98A0D422BA7ED10086DECC /* nature-wallpapers-27745-1700938.jpg */; };
+		1BD03E2B22C10C90002B54E8 /* rounded_rectangle_png_1187724.png in Resources */ = {isa = PBXBuildFile; fileRef = 1BD03E2A22C10C90002B54E8 /* rounded_rectangle_png_1187724.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +31,13 @@
 		1B362D6F227F19C4008D70F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B362D71227F19C4008D70F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1B362D77227F19F8008D70F2 /* bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg.png; sourceTree = "<group>"; };
+		1B98A0CF22BA7ED10086DECC /* photo-1511836536898-6d6f1b8f6948.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "photo-1511836536898-6d6f1b8f6948.jpeg"; sourceTree = "<group>"; };
+		1B98A0D022BA7ED10086DECC /* sunlight_diet.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sunlight_diet.jpg; sourceTree = "<group>"; };
+		1B98A0D122BA7ED10086DECC /* images-3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-3.jpeg"; sourceTree = "<group>"; };
+		1B98A0D222BA7ED10086DECC /* images.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpeg; sourceTree = "<group>"; };
+		1B98A0D322BA7ED10086DECC /* images-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-2.jpeg"; sourceTree = "<group>"; };
+		1B98A0D422BA7ED10086DECC /* nature-wallpapers-27745-1700938.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nature-wallpapers-27745-1700938.jpg"; sourceTree = "<group>"; };
+		1BD03E2A22C10C90002B54E8 /* rounded_rectangle_png_1187724.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rounded_rectangle_png_1187724.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +70,13 @@
 		1B362D64227F19C4008D70F2 /* blur */ = {
 			isa = PBXGroup;
 			children = (
+				1BD03E2A22C10C90002B54E8 /* rounded_rectangle_png_1187724.png */,
+				1B98A0D322BA7ED10086DECC /* images-2.jpeg */,
+				1B98A0D122BA7ED10086DECC /* images-3.jpeg */,
+				1B98A0D222BA7ED10086DECC /* images.jpeg */,
+				1B98A0D422BA7ED10086DECC /* nature-wallpapers-27745-1700938.jpg */,
+				1B98A0CF22BA7ED10086DECC /* photo-1511836536898-6d6f1b8f6948.jpeg */,
+				1B98A0D022BA7ED10086DECC /* sunlight_diet.jpg */,
 				1B362D77227F19F8008D70F2 /* bg.png */,
 				1B362D65227F19C4008D70F2 /* AppDelegate.swift */,
 				1B362D67227F19C4008D70F2 /* ViewController.swift */,
@@ -126,9 +147,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				1B362D70227F19C4008D70F2 /* LaunchScreen.storyboard in Resources */,
+				1B98A0D922BA7ED10086DECC /* images-2.jpeg in Resources */,
 				1B362D6D227F19C4008D70F2 /* Assets.xcassets in Resources */,
 				1B362D78227F19F8008D70F2 /* bg.png in Resources */,
+				1B98A0DA22BA7ED10086DECC /* nature-wallpapers-27745-1700938.jpg in Resources */,
+				1B98A0D622BA7ED10086DECC /* sunlight_diet.jpg in Resources */,
 				1B362D6B227F19C4008D70F2 /* Main.storyboard in Resources */,
+				1B98A0D822BA7ED10086DECC /* images.jpeg in Resources */,
+				1B98A0D722BA7ED10086DECC /* images-3.jpeg in Resources */,
+				1B98A0D522BA7ED10086DECC /* photo-1511836536898-6d6f1b8f6948.jpeg in Resources */,
+				1BD03E2B22C10C90002B54E8 /* rounded_rectangle_png_1187724.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

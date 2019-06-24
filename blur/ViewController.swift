@@ -17,16 +17,15 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
 
-        let blurEffect = UIBlurEffect(style: UIBlurEffect.Style.light)
-//        let blurView = UIVisualEffectView(effect: blurEffect)
+        let blurEffect = UIBlurEffect(style: UIBlurEffect.Style.regular)
         let blurView = CustomIntensityVisualEffectView(effect: blurEffect, intensity: 1.0)
         blurView.frame = imageView.bounds
 
-        let vibrancyEffect = UIVibrancyEffect(blurEffect: blurEffect)
-        let vibrancyView = UIVisualEffectView(effect: vibrancyEffect)
-        vibrancyView.frame = blurView.contentView.bounds
-        vibrancyView.contentView.addSubview(textView)
-        blurView.contentView.addSubview(vibrancyView)
+//        let vibrancyEffect = UIVibrancyEffect(blurEffect: blurEffect)
+//        let vibrancyView = UIVisualEffectView(effect: vibrancyEffect)
+//        vibrancyView.frame = blurView.contentView.bounds
+//        vibrancyView.contentView.addSubview(textView)
+//        blurView.contentView.addSubview(vibrancyView)
 
         imageView.addSubview(blurView)
     }
